@@ -1,2 +1,2 @@
 # BRSP-OmicsLite
-Bioinformatics Research Starter Program (BRSP) adalah program belajar bioinformatika berbasis proyek, mulai dari perumusan problem biologis, analisis data bioinformatika nyata, hingga interpretasi hasil dan penarikan insight biologis. 
+The Bioinformatics Research Starter Program (BRSP) is a project-based bioinformatics learning program that guides participants from formulating biological problems, through the analysis of real bioinformatics data, to the interpretation of results and the extraction of biological insights.
